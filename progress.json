@@ -1,0 +1,31 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1785950161.520994,
+    "completed_at": 1785950222.214074,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1785949793.423772,
+    "completed_at": 1785949796.250834,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add alice.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1785949844.661302,
+    "completed_at": 1785949846.305692,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
