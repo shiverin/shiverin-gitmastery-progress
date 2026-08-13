@@ -70,5 +70,14 @@
     "completed_at": 1786580452.970381,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786581188.323369,
+    "completed_at": 1786581191.333219,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
   }
 ]
