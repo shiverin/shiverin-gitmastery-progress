@@ -296,5 +296,14 @@
       "No commits were made in the 'sleep-line' branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1786610183.881666,
+    "completed_at": 1786610185.331528,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
